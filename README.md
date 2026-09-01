@@ -33,11 +33,3 @@ I am a passionate Web Designer and Digital Architect focused on engineering high
 
 ---
 *Designed & Developed with precision by Tanveer Hussain @VexorNull*
-* **💻 Website:** [iget-dev.blogspot.com](https://iget-dev.blogspot.com)
-* **📱 Social Media:** [@Official.Tanveer.70](https://facebook.com/official.tanveer.70)
-
----
-
-<p align="center">
-  <img src="https://vercel.app" alt="Tanveer's GitHub Stats" />
-</p>
