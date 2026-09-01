@@ -1,54 +1,38 @@
-# 👋 Hi, I'm Tanveer Hussain!
+<div align="center">
 
-<p align="left">
-  <a href="https://iget-dev.blogspot.com"><img src="https://shields.io" /></a>
-  <a href="mailto:Inquiry.iConnect.Social@gmail.com"><img src="https://shields.io" /></a>
-</p>
+# Tanveer Hussain 👑
+### *Web Designer & Digital Architect*
 
-A passionate **Assistant by profession** and a **Web Developer by interest**, based in **Karachi, Pakistan** 🇵🇰. I love building innovative solutions for the web, automating workflows, and experimenting with technology.
+[![Digital Hub](https://img.shields.io/badge/Digital%20Hub-pk--digitalhub.blogspot.com-d4af37?style=for-the-badge&logo=blogger&logoColor=black)](https://pk-digitalhub.blogspot.com)
+[![Portfolio](https://img.shields.io/badge/Live%20Portfolio-VexorNull.github.io-030305?style=for-the-badge&logo=github&logoColor=d4af37)](https://vexornull.github.io/VexorNull-/)
+[![Status](https://img.shields.io/badge/Verified-Enterprise%20Partner-success?style=for-the-badge)]()
 
----
+> *"Deeper than the algorithm."*
 
-### 🛠️ Tech Stack & Skills
-
-#### 🌐 Web Development
-<p align="left">
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-</p>
-
-#### 🔧 Tools & Utilities
-<p align="left">
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-</p>
-
-#### 📊 Data Management & Creative
-* **Advanced Excel:** VLOOKUP, IFERROR, Data Auditing, and workflow optimization.
-* **Content Creation:** Short-form Video Production & Digital Content Strategy.
+</div>
 
 ---
+
+### ⚡ About Me
+I am a passionate Web Designer and Digital Architect focused on engineering high-performance frontend systems, custom publishing frameworks, and immersive web solutions with a sleek dark-luxury aesthetic.
+
+### 🛠️ Core Tech Stack & Skills
+- **Frontend Architecture:** Advanced HTML5, Modern CSS3, Responsive UI/UX Design
+- **Platform Customization:** Blogger XML Configuration, Custom Template Design & Widget Troubleshooting
+- **Data & Workflow Management:** Advanced Excel Functions, Workflow Automation & Reporting
+- **Systems & Optimization:** Git, GitHub Pages, Android Environment Configuration & Performance Tuning
 
 ### 🚀 Featured Projects
+- **[Executive Portfolio Website](https://vexornull.github.io/VexorNull-/):** A multi-page, high-end professional portfolio featuring glassmorphism design, synchronized navigation, and enterprise-grade asset management.
+- **[Digital Hub Platform](https://pk-digitalhub.blogspot.com):** A custom-tailored digital publishing hub showcasing bespoke UI designs and content systems.
 
-* **🌐 Tanveer Connect:** A custom-built web platform designed for secure, anonymous communication and interactive community features.
-* **📱 Official.Tanveer.70:** Digital media branding initiative focusing on cross-platform content assets and organic audience growth.
-
----
-
-### 💼 Professional Experience
-
-* **Finance Assistant** | *Airmen Golf Club & Recreational Park*
-  * Managing administrative workflows, financial data syncing, and system optimizations.
-  * Specialized in hardware-software integration, including attendance terminal networking and automated data pipelines.
+### 📊 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=VexorNull&show_icons=true&theme=tokyonight&hide_border=true&bg_color=030305&title_color=d4af37&icon_color=d4af37" alt="VexorNull's GitHub Stats" />
+</div>
 
 ---
-
-### 🌐 Let's Connect!
-
-* **📩 Email:** [Inquiry.iConnect.Social@gmail.com](mailto:Inquiry.iConnect.Social@gmail.com)
+*Designed & Developed with precision by Tanveer Hussain @VexorNull*
 * **💻 Website:** [iget-dev.blogspot.com](https://iget-dev.blogspot.com)
 * **📱 Social Media:** [@Official.Tanveer.70](https://facebook.com/official.tanveer.70)
 
